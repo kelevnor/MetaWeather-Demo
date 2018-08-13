@@ -1,0 +1,2 @@
+# MetaWeather-Demo
+1. Obtain the device’s GPS coordinates, if available, and pass them to the service. 2. If coordinates are not available, pass user entered keyword/location name.  3. Presently store all the search keyworks/location with a time stamp so that when the user can see search history in the future. 4. In a list, display each location id, title and type • On selecting a location from the list, open another page which would show weather details for next 5 days
